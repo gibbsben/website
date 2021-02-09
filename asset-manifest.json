@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gibbsben.github.io/website/static/css/main.cc91f1cb.chunk.css",
+    "main.js": "/gibbsben.github.io/website/static/js/main.eb98f016.chunk.js",
+    "main.js.map": "/gibbsben.github.io/website/static/js/main.eb98f016.chunk.js.map",
+    "runtime-main.js": "/gibbsben.github.io/website/static/js/runtime-main.3d5a5b3b.js",
+    "runtime-main.js.map": "/gibbsben.github.io/website/static/js/runtime-main.3d5a5b3b.js.map",
+    "static/js/2.f6315e51.chunk.js": "/gibbsben.github.io/website/static/js/2.f6315e51.chunk.js",
+    "static/js/2.f6315e51.chunk.js.map": "/gibbsben.github.io/website/static/js/2.f6315e51.chunk.js.map",
+    "index.html": "/gibbsben.github.io/website/index.html",
+    "precache-manifest.c1d13342612ea42cca4d98e7d6a7e269.js": "/gibbsben.github.io/website/precache-manifest.c1d13342612ea42cca4d98e7d6a7e269.js",
+    "service-worker.js": "/gibbsben.github.io/website/service-worker.js",
+    "static/css/main.cc91f1cb.chunk.css.map": "/gibbsben.github.io/website/static/css/main.cc91f1cb.chunk.css.map",
+    "static/js/2.f6315e51.chunk.js.LICENSE.txt": "/gibbsben.github.io/website/static/js/2.f6315e51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5a5b3b.js",
+    "static/js/2.f6315e51.chunk.js",
+    "static/css/main.cc91f1cb.chunk.css",
+    "static/js/main.eb98f016.chunk.js"
+  ]
+}
